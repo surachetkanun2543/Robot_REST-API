@@ -1,0 +1,12 @@
+{
+    "status": "ok",
+    "user": {
+        "id": 1,
+        "fname": "Karn",
+        "lname": "Yong",
+        "username": "karn.yong@melivecode.com",
+        "password": "melivecode",
+        "email": "karn.yong@melivecode.com",
+        "avatar": "https://www.melivecode.com/users/1.png"
+    }
+}
